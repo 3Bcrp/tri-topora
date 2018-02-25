@@ -19,8 +19,6 @@ imports:
   version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
 - name: github.com/magiconair/properties
   version: 8d7837e64d3c1ee4e54a880c5a920ab4316fc90a
-- name: github.com/mitchellh/go-homedir
-  version: b8bc1bf767474819792c23f32d8286a45736f1c6
 - name: github.com/mitchellh/mapstructure
   version: b4575eea38cca1123ec2dc90c26529b5c5acfcff
 - name: github.com/pelletier/go-toml
