@@ -1,5 +1,4 @@
 # VARIABLES
-PACKAGE="github.com/bazilio91/throne"
 BINARY_NAME="main"
 
 default: help
